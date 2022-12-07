@@ -2,7 +2,7 @@
 Choose one of the layouts bellow and recreate it.
 You can find starter files in this repo.
 
-:tw-2755: **Layout must be identical to the image**
+❕ **Layout must be identical to the image**
 ### Mobile Main Menu
 ![](https://reffmentor.s3.eu-central-1.amazonaws.com/menu.png)
 ### Trading Platform Card
